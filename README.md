@@ -3,15 +3,19 @@ Created October 31, 2023 Last updated October 31, 2023
 This is the repository of Andras Szeitz, Ph.D. student in the GSAT program.
 
 Project Title
+
 STAT 545B 102 2023W1 Exploratory Data Analysis - DATA ANALYSIS II
 
 Description
+
 This project describes making a function in R, documenting and testing it.
 
 Location
+
 https://github.com/stat545ubc-2023/assignment-b1-andrasszeitz
 
 Dependencies and Installation
+
 The following OS version, software, libraries, etc., needed to use the cloned version of repository.
 
 Windows 10 Pro or higher
@@ -29,6 +33,7 @@ jupyter lab
 this will run Jupyter Lab (Pyton and R kernel)
 
 Git and Github
+
 Register an account at github.com
 https://happygitwithr.com/github-acct.html
 Install Git
@@ -42,21 +47,25 @@ Open R,  install the gitcreds package by running install.packages("gitcreds"))
 Execute 'gitcreds::gitcreds_set()' and enter the PAT that you previously made when prompted. 
 
 Executing the programs
+
 Configuring R and Git in RStudio
 Selecting R
 Open RStudio, go to Tools -> Global options -> R General
 select R location, for example 'C:\Program Files\R\R-4.3.1'
 
 Selecting Git
+
 Open RStudio, go to Tools -> Global options -> Git/SVN ->
 select Git location, for example 'C:/Program Files/Git/bin/git.exe'
 
 This repository contains the following folders and files.
 
 Folders:
+
 assignment-b1-andrasszeitz_files
 
 Files:
+
 README.md
 assignment-b1-andrasszeitz.Rmd
 assignment-b1-andrasszeitz.md
@@ -69,6 +78,7 @@ Authors
 Andras Szeitz, Ph.D. student, UBC, GSAT program
 
 Cloning this repository:
+
 • Using HTTPS: https://github.com/stat545ubc-2023/assignment-b1-andrasszeitz.git
 • Using SSH: git@github.com:stat545ubc-2023/assignment-b1-andrasszeitz.git
 • Using GitHub CLI: gh repo clone stat545ubc-2023/assignment-b1-andrasszeitz
@@ -87,11 +97,13 @@ remove: Total 10 (delta 1), reused 10 (delta 1)
 Unpacking objects: 100% (10/10), done.
 
 Version History
+
 0.2 Various bug fixes and optimization
 See commit change or See release history
 0.1 Initial Releas
 
 Acknowledgments
+
 Instructor
 Dr. Lucy Gao
 Assistant Professor 
@@ -99,6 +111,7 @@ Department of Statistics
 The University of British Columbia
 
 Teaching Assistants
+
 Asfar Lathif
 Emily Brown
 Erick Isaac Navarro Delgado
